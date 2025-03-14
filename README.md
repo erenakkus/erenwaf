@@ -19,7 +19,7 @@ ErenWAF'ı sisteminize kurmak ve çalıştırmak için aşağıdaki adımları t
 
 ### 1️⃣ Scripti İndirin
 ```bash
-wget https://github.com/kullaniciadi/erenwaf/raw/main/erenwaf.sh -O erenwaf.sh
+wget https://github.com/erenakkus/erenwaf/blob/7ac68809362dec64451b795ebc47a64251e0f34f/erenwaf.sh -O erenwaf.sh
 ```
 
 ### 2️⃣ Çalıştırma İzni Verin
